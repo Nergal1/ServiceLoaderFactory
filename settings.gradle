@@ -1,0 +1,2 @@
+include ':app', ':main-module', ':first-module', ':second-module'
+include ':common-library'
